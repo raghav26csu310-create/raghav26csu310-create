@@ -1,4 +1,8 @@
 <div align="center">
+<img src="./profile-banner.png" width="100%">
+
+<br>
+
 
 # RAGHAV SINGLA
 
