@@ -104,21 +104,38 @@ Software Development
 
 ## 🛠️ TECHNOLOGY
 
-### Languages
+### 💻 PROGRAMMING
 
+<p>
 <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=dark">
+</p>
 
-### AI / Machine Learning
+`C` `Python` `Java` `JavaScript`
 
+---
+
+### 🤖 AI & MACHINE LEARNING
+
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+</p>
 
-### Development
+`Machine Learning` `Deep Learning` `Generative AI` `NLP`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark">
+---
 
-### AI Tools
+### ⚙️ AI SYSTEMS
 
-`Ollama` `Whisper` `Silero VAD` `Piper` `Generative AI`
+```text
+VOICE AI
+   ↓
+SPEECH RECOGNITION
+   ↓
+LOCAL LLM
+   ↓
+WEB SEARCH
+   ↓
+SPEECH SYNTHESIS
 
 ---
 
