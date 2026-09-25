@@ -46,11 +46,35 @@ and turning ideas into working products.
 <img src="https://github-profile-trophy.vercel.app/?username=raghav26csu310-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
 
 </div>
-I'm a **B.Tech CSE student** exploring the intersection of:
+
+
+## 🎯 CURRENT MISSION
+
+<div align="center">
 
 ```text
-Artificial Intelligence
-        +
-Software Engineering
-        +
-Intelligent Products
+╔══════════════════════════════════════════════════════╗
+║                 ◉ AI SYSTEMS CORE                    ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  SYSTEM STATUS                                       ║
+║  ──────────────────────────────────────────────────  ║
+║                                                      ║
+║  ◉ LEARNING        ████████████░░░░░░░░   ACTIVE     ║
+║  ◉ BUILDING        ██████████░░░░░░░░░░   ACTIVE     ║
+║  ◉ EXPERIMENTING   █████████░░░░░░░░░░░   ACTIVE     ║
+║  ◉ AI SYSTEMS      ████████░░░░░░░░░░░░   EXPLORING  ║
+║                                                      ║
+║  CURRENT FOCUS                                       ║
+║  ──────────────────────────────────────────────────  ║
+║                                                      ║
+║  > Artificial Intelligence                           ║
+║  > Generative AI & LLMs                              ║
+║  > Local AI Systems                                  ║
+║  > Voice AI                                          ║
+║  > Intelligent Products                              ║
+║                                                      ║
+║  MODE : BUILD + EXPERIMENT                           ║
+║  STATUS : ONLINE                                     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
