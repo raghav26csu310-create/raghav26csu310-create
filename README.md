@@ -246,7 +246,7 @@ Products
 
 <div align="center">
 
-<img src="./assets/snake.svg" width="95%">
+<img src="./dist/snake-dark.svg" width="95%">
 
 </div>
 
