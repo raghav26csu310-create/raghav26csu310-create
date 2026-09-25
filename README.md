@@ -10,6 +10,10 @@
 ![Generative AI](https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge)
 ![Intelligent Products](https://img.shields.io/badge/BUILDING-INTELLIGENT%20PRODUCTS-00D9FF?style=for-the-badge)
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+GENERATIVE+AI;EXPERIMENTING+WITH+AI+AGENTS;BUILDING+VOICE+AI;TURNING+IDEAS+INTO+PRODUCTS" alt="Typing animation">
+
 ---
 
 ## 🧠 ABOUT ME
@@ -44,11 +48,7 @@ I enjoy taking an idea, understanding the technology behind it, and turning it i
 │  BUILD • EXPERIMENT • LEARN                  │
 │                                              │
 └──────────────────────────────────────────────┘
-```
-
-### WHAT I'M WORKING TOWARD
-
-```text
+WHAT I'M WORKING TOWARD
 PROGRAMMING
      ↓
 SOFTWARE ENGINEERING
@@ -60,181 +60,135 @@ GENERATIVE AI
 AI SYSTEMS
      ↓
 INTELLIGENT PRODUCTS
-```
+🔬 CURRENTLY EXPLORING
+🤖 AI & ML	⚙️ AI SYSTEMS	💻 ENGINEERING
+Machine Learning	Local AI	C
+Deep Learning	Voice AI	Python
+Generative AI	AI Agents	Java
+NLP	Web-connected AI	Git & GitHub
+🛠️ TECHNOLOGY
+💻 PROGRAMMING
 
----
+C Python Java JavaScript
 
-## 🔬 CURRENTLY EXPLORING
+🤖 AI & MACHINE LEARNING
 
-| 🤖 AI & ML | ⚙️ AI SYSTEMS | 💻 ENGINEERING |
-|---|---|---|
-| Machine Learning | Local AI | C |
-| Deep Learning | Voice AI | Python |
-| Generative AI | AI Agents | Java |
-| NLP | Web-connected AI | Git & GitHub |
+Machine Learning Deep Learning Generative AI NLP
 
----
+⚙️ AI SYSTEMS
 
-## 🛠️ TECHNOLOGY
-
-### 💻 PROGRAMMING
-
-![Programming](https://skillicons.dev/icons?i=c,python,java,js&theme=dark)
-
-`C` `Python` `Java` `JavaScript`
-
----
-
-### 🤖 AI & MACHINE LEARNING
-
-![AI and ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
-
-`Machine Learning` `Deep Learning` `Generative AI` `NLP`
-
----
-
-### ⚙️ AI SYSTEMS
-
-**VOICE AI**
+VOICE AI
 
 ↓
 
-**SPEECH RECOGNITION**
+SPEECH RECOGNITION
 
 ↓
 
-**LOCAL LLM**
+LOCAL LLM
 
 ↓
 
-**WEB SEARCH**
+WEB SEARCH
 
 ↓
 
-**SPEECH SYNTHESIS**
+SPEECH SYNTHESIS
 
-`Whisper` `Ollama` `Silero VAD` `Piper`
+Whisper Ollama Silero VAD Piper
 
----
+🔧 DEVELOPMENT TOOLS
 
-### 🔧 DEVELOPMENT TOOLS
+Git GitHub VS Code
 
-![Development Tools](https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark)
+🧠 CURRENTLY LEARNING
 
-`Git` `GitHub` `VS Code`
-
----
-
-### 🧠 CURRENTLY LEARNING
-
-**GENERATIVE AI**
+GENERATIVE AI
 
 ↓
 
-**AI AGENTS**
+AI AGENTS
 
 ↓
 
-**AI SYSTEM ARCHITECTURE**
+AI SYSTEM ARCHITECTURE
 
 ↓
 
-**PRODUCTION AI SYSTEMS**
+PRODUCTION AI SYSTEMS
 
----
-
-## 🚀 PROJECTS
-
-### 🎙️ Voice AI Assistant
+🚀 PROJECTS
+🎙️ Voice AI Assistant
 
 A real-time voice assistant exploring speech recognition, local AI, web search and speech synthesis.
 
-`Python` `Whisper` `Ollama` `Silero VAD` `Piper`
+Python Whisper Ollama Silero VAD Piper
 
-**STATUS:** 🟡 BUILDING
+STATUS: 🟡 BUILDING
 
----
-
-### 🌦️ WeatherGPT
+🌦️ WeatherGPT
 
 An AI-powered weather intelligence project focused on making weather information easier to understand and interact with.
 
-`AI` `Weather` `Data` `UX`
+AI Weather Data UX
 
-**STATUS:** 🟡 DEVELOPING
+STATUS: 🟡 DEVELOPING
 
----
-
-### 🏥 Patient Case-Taking AI
+🏥 Patient Case-Taking AI
 
 An AI-assisted conversational workflow exploring structured collection of patient information.
 
-`Conversational AI` `NLP` `Information Extraction`
+Conversational AI NLP Information Extraction
 
-**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/patient-case-taking-ai)**
+VIEW REPOSITORY →
 
----
-
-### 💻 C Programming
+💻 C Programming
 
 Programming fundamentals and problem-solving practice developed throughout my engineering journey.
 
-`C` `Programming` `Problem Solving`
+C Programming Problem Solving
 
-**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/C_PROGRAMMING)**
+VIEW REPOSITORY →
 
----
+🧭 AI SYSTEMS PATH
+STAGE	FOCUS	DIRECTION
+01	💻 PROGRAMMING	C • Python • Java
+02	⚙️ SOFTWARE ENGINEERING	Development • Git • Systems
+03	🤖 ARTIFICIAL INTELLIGENCE	ML • Deep Learning • NLP
+04	✨ GENERATIVE AI	LLMs • AI Applications
+05	🧠 AI SYSTEMS	Agents • Voice AI • Local AI
+06	🚀 INTELLIGENT PRODUCTS	AI → Systems → Products
+CURRENT DIRECTION
 
-## 🧭 AI SYSTEMS PATH
-
-| STAGE | FOCUS | DIRECTION |
-|:---:|---|---|
-| `01` | 💻 **PROGRAMMING** | C • Python • Java |
-| `02` | ⚙️ **SOFTWARE ENGINEERING** | Development • Git • Systems |
-| `03` | 🤖 **ARTIFICIAL INTELLIGENCE** | ML • Deep Learning • NLP |
-| `04` | ✨ **GENERATIVE AI** | LLMs • AI Applications |
-| `05` | 🧠 **AI SYSTEMS** | Agents • Voice AI • Local AI |
-| `06` | 🚀 **INTELLIGENT PRODUCTS** | AI → Systems → Products |
-
-### CURRENT DIRECTION
-
-**PROGRAMMING**
+PROGRAMMING
 
 ↓
 
-**SOFTWARE ENGINEERING**
+SOFTWARE ENGINEERING
 
 ↓
 
-**ARTIFICIAL INTELLIGENCE**
+ARTIFICIAL INTELLIGENCE
 
 ↓
 
-**GENERATIVE AI**
+GENERATIVE AI
 
 ↓
 
-### 🧠 AI SYSTEMS
+🧠 AI SYSTEMS
 
 ↓
 
-**INTELLIGENT PRODUCTS**
+INTELLIGENT PRODUCTS
 
----
-
-## 🎯 CURRENT MISSION
-
-### BUILDING THE NEXT LAYER
-
-| NOW | NEXT | LONG TERM |
-|---|---|---|
-| Learn fundamentals | Build AI systems | Engineer intelligent products |
-| Experiment with AI | Connect models + tools | Design scalable systems |
-| Build projects | Solve real problems | Create meaningful technology |
-
-### SYSTEM LOOP
-
-```text
+🎯 CURRENT MISSION
+BUILDING THE NEXT LAYER
+NOW	NEXT	LONG TERM
+Learn fundamentals	Build AI systems	Engineer intelligent products
+Experiment with AI	Connect models + tools	Design scalable systems
+Build projects	Solve real problems	Create meaningful technology
+SYSTEM LOOP
 ┌──────────────────────────────────────────────┐
 │                                              │
 │                 LEARN                        │
@@ -249,19 +203,14 @@ Programming fundamentals and problem-solving practice developed throughout my en
 │                   ↺                          │
 │                                              │
 └──────────────────────────────────────────────┘
-```
 
-**CURRENT STATUS:** 🟢 BUILDING
+CURRENT STATUS: 🟢 BUILDING
 
-**PRIMARY FOCUS:** AI SYSTEMS
+PRIMARY FOCUS: AI SYSTEMS
 
-**NEXT FRONTIER:** GENERATIVE AI → AI AGENTS → INTELLIGENT PRODUCTS
+NEXT FRONTIER: GENERATIVE AI → AI AGENTS → INTELLIGENT PRODUCTS
 
----
-
-## ⚡ WHAT I WANT TO BUILD
-
-```text
+⚡ WHAT I WANT TO BUILD
                          IDEA
                            │
                            ▼
@@ -275,73 +224,51 @@ Programming fundamentals and problem-solving practice developed throughout my en
                            │
                            ▼
                    REAL-WORLD IMPACT
-```
 
 The goal is not simply to use AI.
 
-The goal is to understand the technology deeply enough to **build complete intelligent systems around it.**
+The goal is to understand the technology deeply enough to build complete intelligent systems around it.
 
----
+📊 GITHUB ACTIVITY
+CONTRIBUTION SNAPSHOT
 
-## 📊 GITHUB ACTIVITY
+CONTRIBUTION STREAK
 
-### CONTRIBUTION SNAPSHOT
+🏆 GITHUB ACHIEVEMENTS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav26csu310-create&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
+Building the profile is part of the journey.
+The numbers, repositories and achievements will grow with the work.
 
-### CONTRIBUTION STREAK
+AREA	STATUS
+💻 Coding	🟢 Active
+🚀 Projects	🟢 Building
+🤖 AI Exploration	🟢 Active
+📚 Learning	🟢 Continuous
+🌐 Open Source	🔵 Growing
+🧠 AI Systems	🟡 Developing
 
-![GitHub Streak](https://streak-stats.demolab.com?user=raghav26csu310-create&theme=tokyonight&hide_border=true)
+BUILD → CONTRIBUTE → EXPERIMENT → IMPROVE
 
----
-
-## 🏆 GITHUB ACHIEVEMENTS
-
-> Building the profile is part of the journey.  
-> The numbers, repositories and achievements will grow with the work.
-
-| AREA | STATUS |
-|---|---|
-| 💻 Coding | 🟢 Active |
-| 🚀 Projects | 🟢 Building |
-| 🤖 AI Exploration | 🟢 Active |
-| 📚 Learning | 🟢 Continuous |
-| 🌐 Open Source | 🔵 Growing |
-| 🧠 AI Systems | 🟡 Developing |
-
-**BUILD → CONTRIBUTE → EXPERIMENT → IMPROVE**
-
----
-
-## 📌 FEATURED REPOSITORIES
-
-### 🏥 Patient Case-Taking AI
+📌 FEATURED REPOSITORIES
+🏥 Patient Case-Taking AI
 
 AI-assisted conversational workflow exploring structured collection of patient information.
 
-**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/patient-case-taking-ai)**
+OPEN REPOSITORY →
 
----
-
-### 💻 C PROGRAMMING
+💻 C PROGRAMMING
 
 Programming fundamentals and problem-solving practice.
 
-**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/C_PROGRAMMING)**
+OPEN REPOSITORY →
 
----
-
-### 📂 FOCP-I C PROGRAMMING WORKSPACE
+📂 FOCP-I C PROGRAMMING WORKSPACE
 
 Engineering coursework and C programming practice.
 
-**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/FOCP-I_C_Programming_Workspace)**
+OPEN REPOSITORY →
 
----
-
-## 💻 DEVELOPER STATUS
-
-```text
+💻 DEVELOPER STATUS
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  STATUS      : BUILDING                      │
@@ -354,13 +281,7 @@ Engineering coursework and C programming practice.
 │  MINDSET     : BUILD > THEORY               │
 │                                              │
 └──────────────────────────────────────────────┘
-```
-
----
-
-## 🌐 BUILDING IN PUBLIC
-
-```text
+🌐 BUILDING IN PUBLIC
 LEARN
   ↓
 BUILD
@@ -372,22 +293,22 @@ GET FEEDBACK
 IMPROVE
   ↓
 BUILD AGAIN
-```
 
 Every project is an experiment.
 
 Every experiment is a step toward understanding.
 
----
+🔗 CONNECT
 
-## 🔗 CONNECT
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&height=40&lines=BUILD;EXPERIMENT;LEARN;REPEAT" alt="Build experiment learn repeat">
 
-[![GitHub](https://img.shields.io/badge/GitHub-raghav26csu310--create-181717?style=for-the-badge&logo=github)](https://github.com/raghav26csu310-create)
+<br><br>
 
----
+⚡ BUILD • EXPERIMENT • LEARN • REPEAT
+<br>
 
-<p align="center">
+BUILDING TODAY. ENGINEERING TOMORROW.
 
-### BUILD • EXPERIMENT • LEARN • REPEAT
+<br><br>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=raghav26csu310-create&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"> </div> ```
