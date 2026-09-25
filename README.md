@@ -90,17 +90,16 @@ An AI project exploring how conversational AI can help collect and structure pat
 
 ---
 
-## 📚 My Learning Path
+## 📚 Learning Path
 
-```text
-Programming
-     ↓
-Data Structures & Algorithms
-     ↓
-Software Engineering
-     ↓
-AI / Machine Learning
-     ↓
-AI Systems
-     ↓
-Intelligent Products
+| Stage | Focus |
+|---|---|
+| `01` | 💻 Programming Fundamentals |
+| `02` | 🧩 Data Structures & Algorithms |
+| `03` | ⚙️ Software Engineering |
+| `04` | 🤖 Artificial Intelligence & Machine Learning |
+| `05` | 🧠 Generative AI & LLMs |
+| `06` | 🔬 AI Systems |
+| `07` | 🚀 Intelligent Products |
+
+> **Learn the fundamentals → Build systems → Experiment → Ship useful products**
