@@ -179,18 +179,40 @@ Programming fundamentals and problem-solving practice developed during my engine
 
 ---
 
-### ⚙️ AI SYSTEMS
+## 🧭 AI SYSTEMS PATH
 
-```text
-VOICE AI
-   ↓
-SPEECH RECOGNITION
-   ↓
-LOCAL LLM
-   ↓
-WEB SEARCH
-   ↓
-SPEECH SYNTHESIS
+| STAGE | FOCUS | DIRECTION |
+|---|---|---|
+| `01` | 💻 PROGRAMMING | C • Python • Java |
+| `02` | ⚙️ SOFTWARE ENGINEERING | Development • Git • Systems |
+| `03` | 🤖 ARTIFICIAL INTELLIGENCE | ML • Deep Learning • NLP |
+| `04` | ✨ GENERATIVE AI | LLMs • AI Applications |
+| `05` | 🧠 AI SYSTEMS | Agents • Voice AI • Local AI |
+| `06` | 🚀 INTELLIGENT PRODUCTS | AI → Systems → Products |
+
+### CURRENT DIRECTION
+
+**PROGRAMMING**
+
+↓
+
+**SOFTWARE ENGINEERING**
+
+↓
+
+**ARTIFICIAL INTELLIGENCE**
+
+↓
+
+**GENERATIVE AI**
+
+↓
+
+### **AI SYSTEMS**
+
+↓
+
+**INTELLIGENT PRODUCTS**
 
 ---
 
