@@ -78,27 +78,82 @@ Natural Language Processing
 
 ### ⚙️ AI SYSTEMS
 
-Local AI  
-Voice AI  
-AI Agents  
-Web-connected AI
+**VOICE AI**  
+↓  
+**SPEECH RECOGNITION**  
+↓  
+**LOCAL LLM**  
+↓  
+**WEB SEARCH**  
+↓  
+**SPEECH SYNTHESIS**
 
-</td>
+`Whisper` `Ollama` `Silero VAD` `Piper`
 
-<td width="33%" valign="top">
+---
 
-### 💻 ENGINEERING
+### 🔧 DEVELOPMENT TOOLS
 
-C  
-Python  
-Java  
-Git & GitHub  
-Software Development
+![Git](https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark)
 
-</td>
+`Git` `GitHub` `VS Code`
 
-</tr>
-</table>
+---
+
+### 🧠 CURRENTLY LEARNING
+
+**GENERATIVE AI**  
+↓  
+**AI AGENTS**  
+↓  
+**AI SYSTEM ARCHITECTURE**  
+↓  
+**PRODUCTION AI SYSTEMS**
+
+---
+
+## 🚀 PROJECTS
+
+### 🎙️ Voice AI Assistant
+
+A real-time voice assistant exploring speech recognition, local AI, web search and speech synthesis.
+
+`Python` `Whisper` `Ollama` `Silero VAD` `Piper`
+
+**STATUS:** 🟡 BUILDING
+
+---
+
+### 🌦️ WeatherGPT
+
+An AI-powered weather intelligence project focused on making weather information easier to understand and interact with.
+
+`AI` `Weather` `Data` `UX`
+
+**STATUS:** 🟡 DEVELOPING
+
+---
+
+### 🏥 Patient Case-Taking AI
+
+An AI-assisted conversational workflow exploring structured collection of patient information.
+
+`Conversational AI` `NLP` `Information Extraction`
+
+**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/patient-case-taking-ai)**
+
+---
+
+### 💻 C Programming
+
+Programming fundamentals and problem-solving practice developed during my engineering journey.
+
+`C` `Programming` `Problem Solving`
+
+**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/C_PROGRAMMING)**
+
+---
+
 
 ---
 
