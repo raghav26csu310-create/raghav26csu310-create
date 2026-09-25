@@ -16,9 +16,9 @@ and turning ideas into working products.
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20Systems-00D9FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Exploring-Generative%20AI-7B61FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Building-Intelligent%20Products-00D9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-00D9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20PRODUCTS-00D9FF?style=for-the-badge">
 
 </div>
 
@@ -26,25 +26,22 @@ and turning ideas into working products.
 
 ## 🧠 ABOUT ME
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👋 Hey, I'm Raghav
+
+I'm a **B.Tech CSE student** exploring the intersection of **Artificial Intelligence, software engineering, and intelligent products**.
+
+I'm interested in understanding how technology works beneath the surface — from programming fundamentals and algorithms to **LLMs, local AI, and complete AI-powered systems**.
+
+I enjoy taking an idea, breaking it into smaller systems, experimenting with different technologies, and turning it into something that actually works.
+
 </td>
 
-</tr>
-</table>
-
-### 🔭 What I'm Working Toward
-
-```text
-PROGRAMMING
-     ↓
-SOFTWARE ENGINEERING
-     ↓
-ARTIFICIAL INTELLIGENCE
-     ↓
-GENERATIVE AI
-     ↓
-AI SYSTEMS
-     ↓
-INTELLIGENT PRODUCTS
+<td width="40%" valign="top">
 
 ### ⚡ QUICK PROFILE
 
@@ -64,57 +61,20 @@ MODE      : Learn → Build → Improve
 
 </td>
 
+</tr>
+</table>
 
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raghav26csu310-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav26csu310-create&theme=tokyonight&hide_border=true&background=0D1117">
-
-</div>
-
-<br>
-
-## 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raghav26csu310-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
-
-</div>
-
-
-## 🎯 CURRENT MISSION
-
-<div align="center">
+### 🔭 WHAT I'M WORKING TOWARD
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                 ◉ AI SYSTEMS CORE                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  SYSTEM STATUS                                       ║
-║  ──────────────────────────────────────────────────  ║
-║                                                      ║
-║  ◉ LEARNING        ████████████░░░░░░░░   ACTIVE     ║
-║  ◉ BUILDING        ██████████░░░░░░░░░░   ACTIVE     ║
-║  ◉ EXPERIMENTING   █████████░░░░░░░░░░░   ACTIVE     ║
-║  ◉ AI SYSTEMS      ████████░░░░░░░░░░░░   EXPLORING  ║
-║                                                      ║
-║  CURRENT FOCUS                                       ║
-║  ──────────────────────────────────────────────────  ║
-║                                                      ║
-║  > Artificial Intelligence                           ║
-║  > Generative AI & LLMs                              ║
-║  > Local AI Systems                                  ║
-║  > Voice AI                                          ║
-║  > Intelligent Products                              ║
-║                                                      ║
-║  MODE : BUILD + EXPERIMENT                           ║
-║  STATUS : ONLINE                                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+PROGRAMMING
+     ↓
+SOFTWARE ENGINEERING
+     ↓
+ARTIFICIAL INTELLIGENCE
+     ↓
+GENERATIVE AI
+     ↓
+AI SYSTEMS
+     ↓
+INTELLIGENT PRODUCTS
