@@ -52,24 +52,31 @@ An AI project exploring how conversational AI can help collect and structure pat
 **Focus:** AI • Information Extraction • Product Design
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-C • Python • Java • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js" />
+</p>
 
-**AI**
+### 🤖 AI & Machine Learning
 
-Machine Learning • Generative AI • LLMs
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-**Development**
+**Exploring:** Machine Learning • Generative AI • LLMs • AI Systems
 
-Git • GitHub • VS Code • APIs
+### ⚙️ Development
 
-**AI Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
+</p>
 
-Ollama • Whisper • Piper • Silero VAD
+### 🧠 AI Tools
+
+`Ollama` `Whisper` `Piper` `Silero VAD`
 
 ---
 
