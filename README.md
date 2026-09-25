@@ -1,182 +1,393 @@
-<div align="center">
-
 <img src="./profile-banner.png" width="100%">
-
-<br><br>
 
 # RAGHAV SINGLA
 
 ### AI SYSTEMS • APPLIED AI • SOFTWARE ENGINEERING
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+GENERATIVE+AI;BUILDING+AI+ASSISTANTS;TURNING+IDEAS+INTO+WORKING+PRODUCTS" alt="Typing animation">
+> Building intelligent systems, experimenting with emerging AI technologies, and turning ideas into working products.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav26csu310-create)
-[![AI Systems](https://img.shields.io/badge/AI_SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF)](https://github.com/raghav26csu310-create)
-[![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-</div>
+![AI Systems](https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-00D9FF?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge)
+![Intelligent Products](https://img.shields.io/badge/BUILDING-INTELLIGENT%20PRODUCTS-00D9FF?style=for-the-badge)
 
 ---
 
-## 👋 ABOUT ME
+## 🧠 ABOUT ME
 
-I'm a **B.Tech Computer Science student** exploring the intersection of
-**Artificial Intelligence, software engineering and intelligent systems**.
+I am a Computer Science student focused on understanding how software, artificial intelligence and intelligent systems come together.
 
-I enjoy taking an idea, experimenting with technology, understanding how
-the pieces work together, and turning it into something that actually runs.
+My interests sit at the intersection of:
+
+- 🤖 Artificial Intelligence
+- ✨ Generative AI
+- ⚙️ AI Systems
+- 💻 Software Engineering
+- 🚀 Intelligent Products
+
+I enjoy taking an idea, understanding the technology behind it, and turning it into something that actually works.
+
+### QUICK PROFILE
 
 ```text
-LEARN  →  EXPERIMENT  →  BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE
-🔭 Currently Exploring
-Generative AI & LLMs
-AI Assistants
-Voice AI
-AI Agents
-Natural Language Processing
-AI-powered applications
-Software engineering
-⚡ WHAT I'M BUILDING
-🎙️ Voice AI Assistant
+┌──────────────────────────────────────────────┐
+│                                              │
+│  FOCUS                                       │
+│  AI SYSTEMS                                  │
+│                                              │
+│  EXPLORING                                   │
+│  GENERATIVE AI                               │
+│                                              │
+│  BUILDING                                    │
+│  INTELLIGENT PRODUCTS                        │
+│                                              │
+│  MINDSET                                     │
+│  BUILD • EXPERIMENT • LEARN                  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
-A real-time voice assistant experiment built around a local AI stack.
+### WHAT I'M WORKING TOWARD
 
-Pipeline
-
-Voice Input → VAD → Speech Recognition → Local LLM → Web Search → Speech
-
-Stack
-
-Python Faster-Whisper Silero VAD Ollama Piper
-
-Exploring how individual AI components can be combined into a complete
-working intelligent system.
-
-🌦️ WeatherGPT
-
-An AI-powered weather intelligence concept designed to make weather
-information easier to understand and interact with.
-
-AI Weather Intelligence Natural Language UX
-
-🏥 Patient Case-Taking AI
-
-A conversational AI experiment focused on collecting and structuring
-patient case information.
-
-AI NLP Conversational AI Healthcare
-
-💻 C Programming
-
-My programming foundation — coursework, practice programs,
-problem solving and experiments in C.
-
-C Programming Problem Solving
-
-🧠 TECHNOLOGY
-<div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" />
-
-<br><br>
-
-AI • DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode&theme=dark" />
-
-<br><br>
-
-Ollama • Faster-Whisper • Silero VAD • Piper
-
-</div>
-🎯 CURRENT MISSION
-PROJECT ASCEND — LEVEL 01
-AREA	STATUS
-🎓 B.Tech CSE	🟢 ACTIVE
-⚙️ C Programming	🟢 ACTIVE
-🐍 Python	🟡 LEARNING
-🤖 Generative AI	🟢 EXPLORING
-🎙️ Voice AI	🟢 BUILDING
-🧠 Machine Learning	🟡 EXPLORING
-🌐 AI Agents	🟡 EXPLORING
-💻 DSA	⚪ UPCOMING
-🚀 Production AI Systems	⚪ FUTURE
-Mission Objectives
- Start B.Tech
- Build programming foundations
- Start building real projects
- Explore Generative AI
- Build an AI assistant
- Strengthen Python
- Master DSA
- Deepen Machine Learning
- Build larger AI systems
- Explore AI Agents
- Contribute to Open Source
- Build production-grade AI products
-📈 THE JOURNEY
-             🎓 STUDENT
-                 │
-                 ▼
-            💻 DEVELOPER
-                 │
-                 ▼
-             🤖 AI BUILDER
-                 │
-                 ▼
-        ⚙️ AI SYSTEMS ENGINEER
-                 │
-                 ▼
-         🧠 APPLIED AI ENGINEER
-                 │
-                 ▼
-          🚀 TECHNOLOGY LEADER
-
-I'm interested in the point where AI stops being just a demo
-and becomes a real system.
-
-🛠️ MY APPROACH
-
-Don't just use the technology. Understand it.
-
-I prefer learning through projects:
-
-Idea → Prototype → Experiment → Break → Debug → Understand → Improve
-
-Every project is an opportunity to understand something I didn't know before.
-
-🌌 AREAS I'M MOVING TOWARDS
-
-ARTIFICIAL INTELLIGENCE
-
-GENERATIVE AI
-
-AI SYSTEMS
-
-LLMs
-
-AI AGENTS
-
-VOICE AI
-
+```text
+PROGRAMMING
+     ↓
 SOFTWARE ENGINEERING
+     ↓
+ARTIFICIAL INTELLIGENCE
+     ↓
+GENERATIVE AI
+     ↓
+AI SYSTEMS
+     ↓
+INTELLIGENT PRODUCTS
+```
 
-AI PRODUCTS
+---
 
-<div align="center">
-⚡ LEARN • BUILD • UNDERSTAND • EVOLVE
-<br>
+## 🔬 CURRENTLY EXPLORING
 
-BUILDING TODAY. ENGINEERING TOMORROW.
+| 🤖 AI & ML | ⚙️ AI SYSTEMS | 💻 ENGINEERING |
+|---|---|---|
+| Machine Learning | Local AI | C |
+| Deep Learning | Voice AI | Python |
+| Generative AI | AI Agents | Java |
+| NLP | Web-connected AI | Git & GitHub |
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=raghav26csu310-create&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+## 🛠️ TECHNOLOGY
 
-<br><br>
+### 💻 PROGRAMMING
 
-RAGHAV SINGLA
+![Programming](https://skillicons.dev/icons?i=c,python,java,js&theme=dark)
 
-</div> ```
+`C` `Python` `Java` `JavaScript`
+
+---
+
+### 🤖 AI & MACHINE LEARNING
+
+![AI and ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
+
+`Machine Learning` `Deep Learning` `Generative AI` `NLP`
+
+---
+
+### ⚙️ AI SYSTEMS
+
+**VOICE AI**
+
+↓
+
+**SPEECH RECOGNITION**
+
+↓
+
+**LOCAL LLM**
+
+↓
+
+**WEB SEARCH**
+
+↓
+
+**SPEECH SYNTHESIS**
+
+`Whisper` `Ollama` `Silero VAD` `Piper`
+
+---
+
+### 🔧 DEVELOPMENT TOOLS
+
+![Development Tools](https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark)
+
+`Git` `GitHub` `VS Code`
+
+---
+
+### 🧠 CURRENTLY LEARNING
+
+**GENERATIVE AI**
+
+↓
+
+**AI AGENTS**
+
+↓
+
+**AI SYSTEM ARCHITECTURE**
+
+↓
+
+**PRODUCTION AI SYSTEMS**
+
+---
+
+## 🚀 PROJECTS
+
+### 🎙️ Voice AI Assistant
+
+A real-time voice assistant exploring speech recognition, local AI, web search and speech synthesis.
+
+`Python` `Whisper` `Ollama` `Silero VAD` `Piper`
+
+**STATUS:** 🟡 BUILDING
+
+---
+
+### 🌦️ WeatherGPT
+
+An AI-powered weather intelligence project focused on making weather information easier to understand and interact with.
+
+`AI` `Weather` `Data` `UX`
+
+**STATUS:** 🟡 DEVELOPING
+
+---
+
+### 🏥 Patient Case-Taking AI
+
+An AI-assisted conversational workflow exploring structured collection of patient information.
+
+`Conversational AI` `NLP` `Information Extraction`
+
+**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/patient-case-taking-ai)**
+
+---
+
+### 💻 C Programming
+
+Programming fundamentals and problem-solving practice developed throughout my engineering journey.
+
+`C` `Programming` `Problem Solving`
+
+**[VIEW REPOSITORY →](https://github.com/raghav26csu310-create/C_PROGRAMMING)**
+
+---
+
+## 🧭 AI SYSTEMS PATH
+
+| STAGE | FOCUS | DIRECTION |
+|:---:|---|---|
+| `01` | 💻 **PROGRAMMING** | C • Python • Java |
+| `02` | ⚙️ **SOFTWARE ENGINEERING** | Development • Git • Systems |
+| `03` | 🤖 **ARTIFICIAL INTELLIGENCE** | ML • Deep Learning • NLP |
+| `04` | ✨ **GENERATIVE AI** | LLMs • AI Applications |
+| `05` | 🧠 **AI SYSTEMS** | Agents • Voice AI • Local AI |
+| `06` | 🚀 **INTELLIGENT PRODUCTS** | AI → Systems → Products |
+
+### CURRENT DIRECTION
+
+**PROGRAMMING**
+
+↓
+
+**SOFTWARE ENGINEERING**
+
+↓
+
+**ARTIFICIAL INTELLIGENCE**
+
+↓
+
+**GENERATIVE AI**
+
+↓
+
+### 🧠 AI SYSTEMS
+
+↓
+
+**INTELLIGENT PRODUCTS**
+
+---
+
+## 🎯 CURRENT MISSION
+
+### BUILDING THE NEXT LAYER
+
+| NOW | NEXT | LONG TERM |
+|---|---|---|
+| Learn fundamentals | Build AI systems | Engineer intelligent products |
+| Experiment with AI | Connect models + tools | Design scalable systems |
+| Build projects | Solve real problems | Create meaningful technology |
+
+### SYSTEM LOOP
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│                 LEARN                        │
+│                   ↓                          │
+│              EXPERIMENT                      │
+│                   ↓                          │
+│                 BUILD                        │
+│                   ↓                          │
+│                DEPLOY                        │
+│                   ↓                          │
+│                IMPROVE                       │
+│                   ↺                          │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+**CURRENT STATUS:** 🟢 BUILDING
+
+**PRIMARY FOCUS:** AI SYSTEMS
+
+**NEXT FRONTIER:** GENERATIVE AI → AI AGENTS → INTELLIGENT PRODUCTS
+
+---
+
+## ⚡ WHAT I WANT TO BUILD
+
+```text
+                         IDEA
+                           │
+                           ▼
+                     AI MODEL
+                           │
+                           ▼
+                       SYSTEM
+                           │
+                           ▼
+                       PRODUCT
+                           │
+                           ▼
+                   REAL-WORLD IMPACT
+```
+
+The goal is not simply to use AI.
+
+The goal is to understand the technology deeply enough to **build complete intelligent systems around it.**
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+### CONTRIBUTION SNAPSHOT
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav26csu310-create&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
+
+### CONTRIBUTION STREAK
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raghav26csu310-create&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GITHUB ACHIEVEMENTS
+
+> Building the profile is part of the journey.  
+> The numbers, repositories and achievements will grow with the work.
+
+| AREA | STATUS |
+|---|---|
+| 💻 Coding | 🟢 Active |
+| 🚀 Projects | 🟢 Building |
+| 🤖 AI Exploration | 🟢 Active |
+| 📚 Learning | 🟢 Continuous |
+| 🌐 Open Source | 🔵 Growing |
+| 🧠 AI Systems | 🟡 Developing |
+
+**BUILD → CONTRIBUTE → EXPERIMENT → IMPROVE**
+
+---
+
+## 📌 FEATURED REPOSITORIES
+
+### 🏥 Patient Case-Taking AI
+
+AI-assisted conversational workflow exploring structured collection of patient information.
+
+**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/patient-case-taking-ai)**
+
+---
+
+### 💻 C PROGRAMMING
+
+Programming fundamentals and problem-solving practice.
+
+**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/C_PROGRAMMING)**
+
+---
+
+### 📂 FOCP-I C PROGRAMMING WORKSPACE
+
+Engineering coursework and C programming practice.
+
+**[OPEN REPOSITORY →](https://github.com/raghav26csu310-create/FOCP-I_C_Programming_Workspace)**
+
+---
+
+## 💻 DEVELOPER STATUS
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  STATUS      : BUILDING                      │
+│  FOCUS       : AI SYSTEMS                   │
+│  EXPLORING   : GENERATIVE AI                │
+│  STACK       : C • PYTHON • JAVA             │
+│  TOOLS       : VS CODE • GIT • GITHUB        │
+│  ENVIRONMENT : WINDOWS                       │
+│                                              │
+│  MINDSET     : BUILD > THEORY               │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🌐 BUILDING IN PUBLIC
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+SHARE
+  ↓
+GET FEEDBACK
+  ↓
+IMPROVE
+  ↓
+BUILD AGAIN
+```
+
+Every project is an experiment.
+
+Every experiment is a step toward understanding.
+
+---
+
+## 🔗 CONNECT
+
+[![GitHub](https://img.shields.io/badge/GitHub-raghav26csu310--create-181717?style=for-the-badge&logo=github)](https://github.com/raghav26csu310-create)
+
+---
+
+<p align="center">
+
+### BUILD • EXPERIMENT • LEARN • REPEAT
+
+</p>
