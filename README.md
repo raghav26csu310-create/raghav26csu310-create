@@ -26,8 +26,6 @@ and turning ideas into working products.
 
 ## 🧠 ABOUT ME
 
-## 🧠 ABOUT ME
-
 <table>
 <tr>
 
