@@ -16,9 +16,19 @@ Building intelligent systems and turning ideas into working products.
 
 ## 👋 About Me
 
-I'm a B.Tech CSE student exploring **Artificial Intelligence, software engineering, and intelligent products**.
+I'm a **B.Tech CSE student** exploring the intersection of **Artificial Intelligence, software engineering, and intelligent products**.
 
-I enjoy learning how systems work from the fundamentals and then using that knowledge to build practical projects.
+I like understanding systems from the fundamentals and turning what I learn into working projects.
+
+### What I'm interested in
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & Large Language Models
+- ⚙️ AI Systems & Local AI
+- 💻 Software Engineering
+- 🔬 Experimenting with emerging technologies
+- 🚀 Building practical AI-powered products
+
 
 ---
 
