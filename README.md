@@ -25,6 +25,40 @@ and turning ideas into working products.
 ---
 
 ## 🧠 ABOUT ME
+
+## 🧠 ABOUT ME
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👋 Hey, I'm Raghav
+
+I'm a **B.Tech CSE student** exploring the world of **Artificial Intelligence, software engineering and intelligent products**.
+
+I'm interested in understanding how technology works beneath the surface — from programming fundamentals and algorithms to **LLMs, local AI and complete AI-powered systems**.
+
+I enjoy taking an idea, breaking it down into smaller systems, experimenting with different technologies, and eventually turning it into something that actually works.
+
+</td>
+
+<td width="40%" valign="top">
+
+### ⚡ QUICK PROFILE
+
+```text
+NAME      : Raghav Singla
+ROLE      : B.Tech CSE Student
+
+FOCUS     : AI Systems
+            Applied AI
+            Software Engineering
+
+BUILDING  : AI-powered products
+EXPLORING : LLMs + Local AI
+MODE      : Learn → Build → Improve
+
 ## 📊 GITHUB ACTIVITY
 
 <div align="center">
