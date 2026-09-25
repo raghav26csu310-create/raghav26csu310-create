@@ -303,10 +303,9 @@ REAL-WORLD IMPACT
 
 ## 🏆 GITHUB ACHIEVEMENTS
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=raghav26csu310-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
-</p>
+> Building the profile is part of the journey. The achievements will grow with the work.
 
+**COMMITS** · **REPOSITORIES** · **PROJECTS** · **CONTRIBUTIONS**
 ---
 
 ## 💻 DEVELOPER STATUS
