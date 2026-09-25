@@ -78,3 +78,106 @@ GENERATIVE AI
 AI SYSTEMS
      ↓
 INTELLIGENT PRODUCTS
+
+## 🚀 PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎙️ Voice AI Assistant</h3>
+
+<p>
+A real-time voice assistant exploring speech recognition,
+local AI, web search and speech synthesis.
+</p>
+
+<p>
+<code>Python</code>
+<code>Whisper</code>
+<code>Ollama</code>
+<code>Silero VAD</code>
+<code>Piper</code>
+</p>
+
+<p>
+<b>STATUS:</b> 🟡 BUILDING
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌦️ WeatherGPT</h3>
+
+<p>
+An AI-powered weather intelligence project focused on making
+weather information easier to understand and interact with.
+</p>
+
+<p>
+<code>AI</code>
+<code>Weather</code>
+<code>Data</code>
+<code>UX</code>
+</p>
+
+<p>
+<b>STATUS:</b> 🟡 DEVELOPING
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏥 Patient Case-Taking AI</h3>
+
+<p>
+An AI-assisted conversational workflow exploring structured
+collection of patient information.
+</p>
+
+<p>
+<code>Conversational AI</code>
+<code>NLP</code>
+<code>Information Extraction</code>
+</p>
+
+<p>
+<a href="https://github.com/raghav26csu310-create/patient-case-taking-ai">
+<b>VIEW REPOSITORY →</b>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 C Programming</h3>
+
+<p>
+Programming fundamentals and problem-solving practice developed
+during my engineering journey.
+</p>
+
+<p>
+<code>C</code>
+<code>Programming</code>
+<code>Problem Solving</code>
+</p>
+
+<p>
+<a href="https://github.com/raghav26csu310-create/C_PROGRAMMING">
+<b>VIEW REPOSITORY →</b>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
