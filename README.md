@@ -4,92 +4,67 @@
 
 <br><br>
 
-# 👋 Hey, I'm Raghav!
+# RAGHAV SINGLA
 
 ### AI SYSTEMS • APPLIED AI • SOFTWARE ENGINEERING
 
-**B.Tech Computer Science Student • Builder • AI Explorer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+GENERATIVE+AI;BUILDING+AI+ASSISTANTS;TURNING+IDEAS+INTO+WORKING+PRODUCTS" alt="Typing animation">
 
 <br>
 
-> Building intelligent systems, experimenting with emerging AI,
-> and turning ideas into working products.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav26csu310-create)
-[![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-101010?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![AI](https://img.shields.io/badge/AI-101010?style=for-the-badge&logo=openai&logoColor=58A6FF)](https://github.com/raghav26csu310-create)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav26csu310-create)
+[![AI Systems](https://img.shields.io/badge/AI_SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF)](https://github.com/raghav26csu310-create)
+[![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 ABOUT ME
+
+I'm a **B.Tech Computer Science student** exploring the intersection of
+**Artificial Intelligence, software engineering and intelligent systems**.
+
+I enjoy taking an idea, experimenting with technology, understanding how
+the pieces work together, and turning it into something that actually runs.
 
 ```text
-🎓  B.Tech Computer Science Student
-🧠  Exploring Artificial Intelligence & Intelligent Systems
-🐍  Learning Python
-⚙️  Building with C
-🤖  Experimenting with Generative AI
-🎙️  Exploring Voice AI & AI Assistants
-🌐  Interested in AI + Software Engineering
-🚀  Learning by actually building things
-
-I'm at the beginning of my B.Tech journey and I'm using it to build a strong
-foundation in programming, artificial intelligence and software engineering.
-
-I like taking an idea, experimenting with it, breaking things,
-fixing them and slowly turning it into something that actually works.
-
-🌱 My Growth Path
-
-PROGRAMMING → AI → PROJECTS → SYSTEMS → ENGINEERING
-
-⚡ CURRENTLY BUILDING
+LEARN  →  EXPERIMENT  →  BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE
+🔭 Currently Exploring
+Generative AI & LLMs
+AI Assistants
+Voice AI
+AI Agents
+Natural Language Processing
+AI-powered applications
+Software engineering
+⚡ WHAT I'M BUILDING
 🎙️ Voice AI Assistant
 
-A real-time voice assistant experiment designed around a fully local AI stack.
+A real-time voice assistant experiment built around a local AI stack.
 
-🎤 VOICE INPUT
-      │
-      ▼
-🧠 VOICE ACTIVITY DETECTION
-      │
-      ▼
-📝 SPEECH RECOGNITION
-      │
-      ▼
-🤖 LOCAL LLM
-      │
-      ▼
-🌐 WEB SEARCH
-      │
-      ▼
-🔊 SPEECH SYNTHESIS
-      │
-      ▼
-💬 VOICE RESPONSE
+Pipeline
+
+Voice Input → VAD → Speech Recognition → Local LLM → Web Search → Speech
+
 Stack
 
-Python Faster-Whisper Silero VAD Ollama Piper Web Search
+Python Faster-Whisper Silero VAD Ollama Piper
 
-Goal: understand how the pieces of a real AI assistant work together,
-rather than simply calling an API and treating the system as a black box.
+Exploring how individual AI components can be combined into a complete
+working intelligent system.
 
-🌦️ AI PROJECTS
-WeatherGPT
+🌦️ WeatherGPT
 
-AI-powered weather intelligence focused on making weather information
-easier to understand, explore and interact with.
+An AI-powered weather intelligence concept designed to make weather
+information easier to understand and interact with.
 
 AI Weather Intelligence Natural Language UX
 
 🏥 Patient Case-Taking AI
 
-A conversational AI experiment for collecting and structuring
+A conversational AI experiment focused on collecting and structuring
 patient case information.
 
 AI NLP Conversational AI Healthcare
@@ -99,160 +74,109 @@ AI NLP Conversational AI Healthcare
 My programming foundation — coursework, practice programs,
 problem solving and experiments in C.
 
-C Programming Fundamentals Problem Solving
+C Programming Problem Solving
 
-🧠 MY CURRENT STACK
-LANGUAGES
-
-Python C Java JavaScript
-
-AI / ML
-
-Generative AI LLMs NLP Voice AI PyTorch TensorFlow
-
-AI SYSTEMS
-
-Ollama Faster-Whisper Silero VAD Piper
-
-DEVELOPMENT
-
-Git GitHub VS Code Windows
-
-🎯 CURRENT MISSION
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              🚀 PROJECT ASCEND — LEVEL 01           ║
-║                                                      ║
-║        B.TECH  ×  AI  ×  SOFTWARE ENGINEERING       ║
-║                                                      ║
-║   ███████████████░░░░░░░░░░░░░░░  LEARNING          ║
-║   █████████████░░░░░░░░░░░░░░░░░  BUILDING          ║
-║   ████████░░░░░░░░░░░░░░░░░░░░░░  EXPERIMENTING    ║
-║   █████░░░░░░░░░░░░░░░░░░░░░░░░░  ENGINEERING     ║
-║                                                      ║
-║            STATUS : ONLINE                           ║
-║            EXP    : +∞                              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-🏆 Mission Objectives
- Start B.Tech
- Start building real projects
- Build a C programming foundation
- Experiment with AI-assisted development
- Explore Generative AI
- Start building AI systems
- Strengthen Python
- Master DSA
- Build larger AI applications
- Deepen Machine Learning
- Explore AI Agents
- Build production-grade AI systems
- Contribute to Open Source
- Build a serious engineering portfolio
-📈 CURRENTLY GROWING
-                    CURRENT FOCUS
-
-          ┌───────────────────────────┐
-          │      PROGRAMMING          │
-          └─────────────┬─────────────┘
-                        ↓
-          ┌───────────────────────────┐
-          │    ARTIFICIAL INTELLIGENCE│
-          └─────────────┬─────────────┘
-                        ↓
-          ┌───────────────────────────┐
-          │      AI APPLICATIONS      │
-          └─────────────┬─────────────┘
-                        ↓
-          ┌───────────────────────────┐
-          │       AI SYSTEMS          │
-          └─────────────┬─────────────┘
-                        ↓
-          ┌───────────────────────────┐
-          │   SOFTWARE ENGINEERING    │
-          └───────────────────────────┘
-🔭 Exploring
-
-Generative AI • LLMs • AI Agents • NLP • Voice AI
-
-🛠️ Building
-
-AI Assistants • AI Products • Automation • Software Projects
-
-📚 Strengthening
-
-C • Python • Problem Solving • Computer Science Fundamentals
-
-🧩 DEVELOPER STATUS
-⚡ STATUS	🧠 CURRENT FOCUS
-🟢 Online	AI Systems
-🎓 Education	B.Tech CSE
-🐍 Learning	Python
-⚙️ Foundation	C Programming
-🤖 Exploring	Generative AI
-🎙️ Building	Voice AI
-🌐 Exploring	AI Agents
-🛠️ Environment	VS Code + GitHub
-🚀 Mindset	Learn → Build → Improve
-💡 HOW I LIKE TO BUILD
-        💭 IDEA
-          │
-          ▼
-     🧪 EXPERIMENT
-          │
-          ▼
-      🛠️ PROTOTYPE
-          │
-          ▼
-        💥 BREAK
-          │
-          ▼
-       🔧 DEBUG
-          │
-          ▼
-     🧠 UNDERSTAND
-          │
-          ▼
-       ⚡ IMPROVE
-          │
-          ▼
-       🚀 PRODUCT
-
-AI can help me build faster.
-
-My goal is to understand what I'm building.
-
-🚀 LONG-TERM DIRECTION
-        🎓 STUDENT
-            │
-            ▼
-       💻 DEVELOPER
-            │
-            ▼
-        🤖 AI BUILDER
-            │
-            ▼
-   ⚙️ AI SYSTEMS ENGINEER
-            │
-            ▼
-    🧠 APPLIED AI ENGINEER
-            │
-            ▼
-     🚀 TECHNOLOGY LEADER
-
-I'm interested in the part where AI stops being a demo
-and becomes an actual system.
-
+🧠 TECHNOLOGY
 <div align="center">
-⚡ LEARN • BUILD • BREAK • UNDERSTAND • EVOLVE
-<br>
-BUILDING TODAY. ENGINEERING TOMORROW.
-<br>
-
-RAGHAV SINGLA
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" />
 
 <br><br>
 
-⭐ Thanks for visiting my profile.
+AI • DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode&theme=dark" />
+
+<br><br>
+
+Ollama • Faster-Whisper • Silero VAD • Piper
+
+</div>
+🎯 CURRENT MISSION
+PROJECT ASCEND — LEVEL 01
+AREA	STATUS
+🎓 B.Tech CSE	🟢 ACTIVE
+⚙️ C Programming	🟢 ACTIVE
+🐍 Python	🟡 LEARNING
+🤖 Generative AI	🟢 EXPLORING
+🎙️ Voice AI	🟢 BUILDING
+🧠 Machine Learning	🟡 EXPLORING
+🌐 AI Agents	🟡 EXPLORING
+💻 DSA	⚪ UPCOMING
+🚀 Production AI Systems	⚪ FUTURE
+Mission Objectives
+ Start B.Tech
+ Build programming foundations
+ Start building real projects
+ Explore Generative AI
+ Build an AI assistant
+ Strengthen Python
+ Master DSA
+ Deepen Machine Learning
+ Build larger AI systems
+ Explore AI Agents
+ Contribute to Open Source
+ Build production-grade AI products
+📈 THE JOURNEY
+             🎓 STUDENT
+                 │
+                 ▼
+            💻 DEVELOPER
+                 │
+                 ▼
+             🤖 AI BUILDER
+                 │
+                 ▼
+        ⚙️ AI SYSTEMS ENGINEER
+                 │
+                 ▼
+         🧠 APPLIED AI ENGINEER
+                 │
+                 ▼
+          🚀 TECHNOLOGY LEADER
+
+I'm interested in the point where AI stops being just a demo
+and becomes a real system.
+
+🛠️ MY APPROACH
+
+Don't just use the technology. Understand it.
+
+I prefer learning through projects:
+
+Idea → Prototype → Experiment → Break → Debug → Understand → Improve
+
+Every project is an opportunity to understand something I didn't know before.
+
+🌌 AREAS I'M MOVING TOWARDS
+
+ARTIFICIAL INTELLIGENCE
+
+GENERATIVE AI
+
+AI SYSTEMS
+
+LLMs
+
+AI AGENTS
+
+VOICE AI
+
+SOFTWARE ENGINEERING
+
+AI PRODUCTS
+
+<div align="center">
+⚡ LEARN • BUILD • UNDERSTAND • EVOLVE
+<br>
+
+BUILDING TODAY. ENGINEERING TOMORROW.
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=raghav26csu310-create&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+RAGHAV SINGLA
 
 </div> ```
